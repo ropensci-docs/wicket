@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://docs.ropensci.org/wicket/index.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/wicket/reference/bounding_wkt.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/wicket/reference/sp_convert.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/wicket/reference/validate_wkt.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/wicket/reference/wicket.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/wicket/reference/wkt_bounding.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/wicket/reference/wkt_centroid.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/wicket/reference/wkt_coords.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/wicket/reference/wkt_correct.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/wicket/reference/wkt_reverse.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/wicket/articles/Introduction.html</loc>
+  </url>
+</urlset>
